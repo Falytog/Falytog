@@ -9,7 +9,7 @@ What's up? I'm Falytog, a passionate explorer in the fascinating world of progra
 - **Learning Enthusiast**: I relish learning new things and delving into curious topics.
 - **Confessed Weakness**: If we're talking confessions, I admit to having a significant weakness for marzipan.
 
-## Technologies I'm Specializing In 💻
+## Technologies I'm Specializing In 
 
 Currently, I am focused on honing my skills in:
 
